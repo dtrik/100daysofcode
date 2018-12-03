@@ -1,4 +1,4 @@
-with open('aoc_day1_input.txt', 'r') as f:
+with open('data/aoc_day1_input.txt', 'r') as f:
     arr = []
     freq_list = []
     numbers = [int(lines.strip()) for lines in f]
